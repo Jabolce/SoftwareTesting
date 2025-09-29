@@ -63,7 +63,6 @@ The test suite performs a complete e-commerce user journey:
 - Sets up WebDriver configuration
 - Manages test data initialization
 - Handles browser lifecycle (setup/teardown)
-- Configures Chrome options for headless testing
 
 ### HomePage.java
 - Handles main navigation
